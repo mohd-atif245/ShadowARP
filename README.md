@@ -1,16 +1,12 @@
-> **ShadowARP — Advanced Multi-Threaded MITM & Credential Sniffer Framework**
+ # **ShadowARP — Advanced Multi-Threaded MITM & Credential Sniffer Framework**
 
 A Python-based Layer 2 **Man-in-the-Middle (MITM)** framework built using **Scapy** to demonstrate **ARP Cache Poisoning**, **HTTP Traffic Interception**, and **Real-Time Credential Harvesting** inside an isolated laboratory environment.
 
-> ⚠️ **This project is intended strictly for educational purposes and authorized security research.**
+ ⚠️ **This project is intended strictly for educational purposes and authorized security research.**
 
 ---
 
-# 📸 Demonstration
-
-> 🎥 **LinkedIn Demo:** *(Add your LinkedIn video link here)*
-
-### Project Preview
+## Project Preview
 
 ![Demo](screenshots/demo.png)
 
