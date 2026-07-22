@@ -45,7 +45,7 @@ This project is designed to help students and cybersecurity enthusiasts understa
 ```text
                     +----------------------+
                     |      Router          |
-                    | 192.168.100.1        |
+                    | 192.168.xxx.x        |
                     +----------+-----------+
                                |
                                |
