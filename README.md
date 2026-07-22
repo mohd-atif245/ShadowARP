@@ -132,12 +132,6 @@ sudo sysctl -w net.ipv4.ip_forward=1
 sudo python3 mitm_framework.py <Target-IP> <Gateway-IP> <Interface>
 ```
 
-### Example
-
-```bash
-sudo python3 mitm_framework.py 192.168.100.71 192.168.100.1 eth0
-```
-
 ---
 
 # 🧪 Example Output
